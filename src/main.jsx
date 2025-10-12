@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.jsx'
 import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } from 'react-router-dom'
-import {Layout, Home, About, Contact, User} from './components/Index.jsx'
+import {Layout, Home, About, Contact, User, Signup, Login, ForgotPassword} from './components/Index.jsx'
 
 // const router = createBrowserRouter([
 //   {
@@ -32,6 +32,9 @@ const router = createBrowserRouter(
       <Route index element={<Home />} />
       <Route path='about' element={<About />} />
       <Route path='contact' element={<Contact />} />
+      <Route path='Signup' element={<Signup />} />
+      <Route path='login' element={<Login />} /> 
+      <Route path='forgot-password' element={<ForgotPassword />} /> 
       <Route path='user/:100' element={<User />} />
       </Route>
   )

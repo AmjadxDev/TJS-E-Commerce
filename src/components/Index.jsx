@@ -10,6 +10,10 @@ import FlashSale from "./Home/Flashsale";
 import About from "./About/About";
 import Contact from "./Contact/Contact";
 
+import Signup from "./SignUp/Signup";
+import Login from "./SignUp/Login";
+import ForgotPassword from "./SignUp/ForgotPassword";
+
 import Footer from "./Footer/Footer";
 
 import User from "./User/User";
@@ -35,6 +39,9 @@ export{
 
     About,
     Contact,
+    Signup,
+    Login,
+    ForgotPassword,
 
     Card,
     Categories,
