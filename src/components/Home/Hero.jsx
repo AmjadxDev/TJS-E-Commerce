@@ -33,13 +33,13 @@ const Hero = () => {
                     className="col-span-9 custom-swiper"
                 >
                     <SwiperSlide>
-                        <img src="../../public\images\hero_banner.jpg" alt="Hero Banner" className="object-cover w-full h-[350px]" />
+                        <img src="https://images.pexels.com/photos/9430775/pexels-photo-9430775.jpeg" alt="Hero Banner" className="object-cover w-full h-[350px]" />
                     </SwiperSlide>
                     <SwiperSlide>
-                        <img src="../../public\images\hero_banner.jpg" alt="Hero Banner" className="object-cover w-full h-[350px]" />
+                        <img src="https://images.pexels.com/photos/9430775/pexels-photo-9430775.jpeg" alt="Hero Banner" className="object-cover w-full h-[350px]" />
                     </SwiperSlide>
                     <SwiperSlide>
-                        <img src="../../public\images\hero_banner.jpg" alt="Hero Banner" className="object-cover w-full h-[350px]" />
+                        <img src="https://images.pexels.com/photos/9430775/pexels-photo-9430775.jpeg" alt="Hero Banner" className="object-cover w-full h-[350px]" />
                     </SwiperSlide>
                 </Swiper>
 

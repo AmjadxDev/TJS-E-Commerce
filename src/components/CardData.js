@@ -7,7 +7,7 @@ let CardData = [
         price : "$20.00",
         discount : "$50.00",
         reviews : "(77)",
-        imagePath : "../public/images/shirt_two.png"
+        imagePath : "https://images.pexels.com/photos/9430775/pexels-photo-9430775.jpeg"
 
     },   
      {
@@ -18,7 +18,7 @@ let CardData = [
         price : "$20.00",
         discount : "$50.00",
         reviews : "(77)",
-        imagePath : "../public/images/shirt_one.png"
+        imagePath : "https://images.pexels.com/photos/9430775/pexels-photo-9430775.jpeg"
 
     }, {
         id: 3,
@@ -28,7 +28,7 @@ let CardData = [
         price : "$20.00",
         discount : "$50.00",
         reviews : "(77)",
-        imagePath : "../public/images/shirt_two.png"
+        imagePath : "https://images.pexels.com/photos/9430775/pexels-photo-9430775.jpeg"
 
     },   
      {
@@ -39,7 +39,7 @@ let CardData = [
         price : "$20.00",
         discount : "$50.00",
         reviews : "(77)",
-        imagePath : "../public/images/shirt_one.png"
+        imagePath : "https://images.pexels.com/photos/9430775/pexels-photo-9430775.jpeg"
 
     }, {
         id: 5,
@@ -49,7 +49,7 @@ let CardData = [
         price : "$20.00",
         discount : "$50.00",
         reviews : "(77)",
-        imagePath : "../public/images/shirt_two.png"
+        imagePath : "https://images.pexels.com/photos/9430775/pexels-photo-9430775.jpeg"
 
     },   
      {
@@ -60,7 +60,7 @@ let CardData = [
         price : "$20.00",
         discount : "$50.00",
         reviews : "(77)",
-        imagePath : "../public/images/shirt_one.png"
+        imagePath : "https://images.pexels.com/photos/9430775/pexels-photo-9430775.jpeg"
 
     }, {
         id: 7,
@@ -70,7 +70,7 @@ let CardData = [
         price : "$20.00",
         discount : "$50.00",
         reviews : "(77)",
-        imagePath : "../public/images/shirt_two.png"
+        imagePath : "https://images.pexels.com/photos/9430775/pexels-photo-9430775.jpeg"
 
     },   
      {
@@ -81,7 +81,7 @@ let CardData = [
         price : "$20.00",
         discount : "$50.00",
         reviews : "(77)",
-        imagePath : "../public/images/shirt_one.png"
+        imagePath : "https://images.pexels.com/photos/9430775/pexels-photo-9430775.jpeg"
 
     },
 
