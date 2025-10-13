@@ -37,7 +37,7 @@ export default function About() {
           </p>
         </div>
         <img
-          src="https://images.unsplash.com/photo-1585386959984-a4155224a1fc?auto=format&fit=crop&w=800&q=80"
+          src="https://images.pexels.com/photos/9430775/pexels-photo-9430775.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
           alt="Our Story"
           className="rounded-md w-full h-auto object-cover"
         />
